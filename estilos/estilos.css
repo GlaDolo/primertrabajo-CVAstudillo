@@ -1,5 +1,4 @@
-
-   img {border-radius: 50%; -webkit-column-break-after: right; float:center; 
+img {border-radius: 50%; float:center; size:"width: 150px;height: 150px;"
 }   
 h1 {
     text-decoration: overline; 
@@ -9,11 +8,10 @@ h1 {
     font-size: 150%;
     border: none
   }
-  .dropdown {
+.dropdown {
     position: absoluta
-    display: inline-block;
+    display; inline-block: 
   }
-  
   .dropdown-content {
     display: none;
     position: relative;
